@@ -1,12 +1,14 @@
 # Introduction
 
-Hello and thank you for joining us for this intro to Web development with JavaScript workshop.
+Hello and thank you for joining us at the JavaScript Essentials Workshop!
 
-My name is David VanDusen, Web bootcamp instructor at Lighthouse Labs, and your instructor today.
+My name is Lee Mulvey, a local freelance web developer, and I'll be your instructor today!
 
-My background is in software development, focusing on Web technologies. I started programming at a young age and built websites during some of the most exciting times in the technologies' histories.
+I've been programming for a lot of years now, but, I originally got my start managing the vBulletin forums for web comic Cyanide & Happiness. 
 
-That said, I started out in fine arts and music and have played everything from piano in a jazz big band to singing in a thrash metal band. Programmers are all sorts of people.
+Special thanks to David Van Dusen with Lighthouse Labs for designing this course. He created the content--I've simpy forked it and changed a few things around. The original can be found at http://www.github.com/lighthouse-labs/gitbook-node-chat-tutorial 
+
+Thanks to Bridge Coworking for allowing us to use their awesome space tonight for the workshop.
 
 ## Pair programming
 
@@ -23,3 +25,4 @@ The objective is not to fully understand every line of code, but to understand s
 The finished app that we'll be building in just a few hours today will look and feel much like this.
 
 ![Example](/assets/example-cropped.png)
+
