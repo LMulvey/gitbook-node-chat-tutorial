@@ -2,7 +2,7 @@
 
 Hello and thank you for joining us at the JavaScript Essentials Workshop!
 
-My name is Lee Mulvey, a local freelance web developer, and I'll be your instructor today!
+My name is Lee Mulvey, a local freelance FRONTEND web developer, and I'll be your instructor today!
 
 I've been programming for a lot of years now, but, I originally got my start managing the vBulletin forums for web comic Cyanide & Happiness. 
 
